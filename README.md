@@ -9,7 +9,7 @@ This project aims to demonstrate the implmentation of a Cloud-based Energy Monit
 
 ## Setups
 
-1. Clone the repository: `https://github.com/Akpamax/Energy_monitoring`
+1. Clone the repository: `https://github.com/Akpamax/Energy_monitor`
 2. Add /Energy_Monitoring to MATLAB PATH so that the pyhon scripts and functions are visible to the model. 
 3. Configure MATLAB to run python scripts. In MATLAB command window, run
 
